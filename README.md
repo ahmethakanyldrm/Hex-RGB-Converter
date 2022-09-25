@@ -8,5 +8,11 @@ Bu projemde
 - Segment Control ,
 - Button ,
 - Label  yapılarını kullandım. 
+<hr>
 
-[](images/)
+## Ekran Görüntüleri
+
+![](images/ss1.png)
+<hr>
+
+![](images/ss2.png)
